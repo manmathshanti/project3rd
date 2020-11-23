@@ -2,31 +2,36 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color:#6abadefa;  
+    background-color:#f8f8f8fa;  
     font-family: 'Arial';  
 }  
 #head
 {
-    background-color: #FFFF00;
+    background-color: white;
 }
-.login{  
-        width: 382px;  
-        overflow: hidden;  
-        margin: auto;  
-        margin: 20 0 0 450px;  
-        padding: 80px;    
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
         border-radius: 15px ;
-
-          
+        -webkit-border-radius: 15px ;
+        -moz-border-radius: 15px ;
+        -ms-border-radius: 15px ;
+        -o-border-radius: 15px ;
 }  
 h2{  
     text-align: center;  
     color: #277582;  
     padding: 20px;  
-}  
+    }
+#food{ color: lightgreen;
+    font-weight:600;
+    }
 label{  
     color: #08ffd1;  
-    font-size: 17px;  
+    font-size: 30px;  
 }  
 #Uname{  
     width: 300px;  

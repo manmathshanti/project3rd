@@ -1,4 +1,4 @@
 function myfun()
 {
-    alert("hi")
+    alert("Log in successful !")
 }
