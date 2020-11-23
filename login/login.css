@@ -2,12 +2,19 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color:#f8f8f8fa;  
+
+    background-color:grey;  
     font-family: 'Arial';  
 }  
 #head
 {
-    background-color: white;
+  
+    font-family: 'sans serif';  
+}  
+#head
+{
+    background-color:lightgreen;
+
 }
 .login{
         width: 382px;
@@ -23,38 +30,37 @@ body
 }  
 h2{  
     text-align: center;  
-    color: #277582;  
+    color:black;  
     padding: 20px;  
     }
-#food{ color: lightgreen;
-    font-weight:600;
-    }
+
 label{  
+
     color: #08ffd1;  
     font-size: 30px;  
 }  
 #Uname{  
-    width: 300px;  
-    height: 30px;  
+    width: 400px;  
+    height: 40px;  
     border: none;  
     border-radius: 3px;  
     padding-left: 8px;  
 }  
 #Pass{  
-    width: 300px;  
-    height: 30px;  
+    width: 400px;  
+    height: 40px;  
     border: none;  
     border-radius: 3px;  
     padding-left: 8px;  
       
 }  
 #log{  
-    width: 130px;  
-    height: 30px;  
+    width: 150px;  
+    height: 40px;  
     border: none;  
-    border-radius: 17px;  
+    border-radius: 20px;  
     padding-left: 7px;  
-    color: blue;
+    color: darkgreen;
     position: relative;  
   
   
@@ -63,18 +69,18 @@ label{
     width: 150px;  
     height: 30px;  
     border: none;  
-    border-radius: 17px;  
+    border-radius: 20px;  
     padding-left: 7px;  
-    color: blue;  
+    color: black;  
     float: right;
   
   
 }  
 span{  
-    color: white;  
-    font-size: 17px;  
+    color: rgb(56, 53, 53);  
+    font-size: 15px;  
 }  
 a{  
     float: right;  
-    background-color: grey;  
+    background-color: green;  
 }
