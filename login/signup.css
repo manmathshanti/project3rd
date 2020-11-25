@@ -8,6 +8,7 @@ body
     font-family: 'Arial';
     
 }  
+
 .login{
         width: 382px;
         overflow: hidden;
@@ -20,6 +21,7 @@ body
         -ms-border-radius: 15px ;
         -o-border-radius: 15px ;
 }  
+
 
 #Uname{  
     width: 400px;  
@@ -36,17 +38,7 @@ body
     padding-left: 8px;  
       
 }  
-#log{  
-    width: 150px;  
-    height: 40px;  
-    border: none;  
-    border-radius: 20px;  
-    padding-left: 7px;  
-    color: rgb(8, 8, 8);
-    position: relative;  
-  
-  
-}  
+
 #log2{  
     width: 150px;  
     height: 30px;  
@@ -57,9 +49,5 @@ body
     float: right;
   
   
-}  
-span{  
-    color: rgb(0, 0, 0);  
-    font-size: 15px;  
 }  
 
