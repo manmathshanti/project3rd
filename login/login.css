@@ -2,9 +2,9 @@ body
 {
     margin: 0;
     padding: 70px;
-    background: url("../INDAINFOODS.jpg");
+    background: url("../ABDHA2.jpg");
     background-size: cover;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(1px);
     background-repeat: no-repeat;
     font-family: 'Arial';
     

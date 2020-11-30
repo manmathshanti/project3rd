@@ -6,7 +6,7 @@
     --color-greyDark:rgb(189, 182, 182);
 }
 body {
-    font-family: var(--font-family);
+    font-family: var(--font-family); 
     }
 
  .listings-grid-element
